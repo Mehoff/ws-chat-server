@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "importHelpers": true,
+    "rootDir": "src",
+    "outDir": "build",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "target": "es5",
+    "lib": ["es6"],
+    "types": ["node"],
+    "resolveJsonModule": true
+  }
+}
